@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UIElements;
 
-public class Capsule : MonoBehaviour
+public class Grower : MonoBehaviour
 {
     [SerializeField] private float _growRateValue = 0.5f;
 
